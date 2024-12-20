@@ -1,2 +1,2 @@
 # AoD-2024-Day-17
-Advent of Docker 2024 - Day 17 - Introduction to Github Actions
+See https://adventofdocker.com/posts/day-17-github-actions/
