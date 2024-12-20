@@ -30,6 +30,6 @@ jobs:
           context: .
           push: true
           tags: |
-            ghcr.io/ranvik14/AoD-2024-Day-17:latest
-            ghcr.io/ranvik14/AoD-2024-Day-17:${{ github.sha }}
+            ghcr.io/ranvik14/aod-2024-day-17:latest
+            ghcr.io/ranvik14/aod-2024-day-17:${{ github.sha }}
 
